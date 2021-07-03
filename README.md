@@ -1,3 +1,8 @@
+# Article: How to run odoo tests with Pycharm
+## Julia Suarez
+
+https://medium.com/plusteam/how-to-run-odoo-tests-with-pycharm-51e4823bdc59
+
 # Tutorial to run odoo tests in a docker container with Pycharm
 In this repository you will find examples and commands to use docker compose file to set up an odoo instance since this can speed up development. You can read the detailed tutorial here.
 
